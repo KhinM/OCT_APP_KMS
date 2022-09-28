@@ -33,7 +33,7 @@ body{
     /* background-blend-mode: soft-light; */
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-blend-mode */
 
-    background-image: url(../d1.jpeg);
+    background-image: url(../img/d1.jpeg);
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-image */
     height: 100%;
     background-position: center center;
